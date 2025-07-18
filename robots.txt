@@ -5,3 +5,6 @@ Sitemap: https://poshiva.github.io/sitemap.xml
 
 User-agent: Googlebot
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /
